@@ -16,7 +16,7 @@
 - 🎓 Pursuing **B.Tech in ICT with minor in Computational Science** at Dhirubhai Ambani University
 - 💼 Ex **Product Engineer Intern** at **UnifyApps**, working on ETL pipelines
 - 🔭 Interested in **Blockchain**, **Distributed Systems**, and **System Design**
-- 🏆 **LeetCode Knight** (Rating: 1857) | **Codeforces Pupil** (Rating:124) | Solved **1500+** competitive programming problems
+- 🏆 **LeetCode Knight** (Rating: 1857) | **Codeforces Pupil** (Rating:1214) | Solved **1500+** competitive programming problems
 - 🥇 **7th State Rank** in 12th Science (ACPC Merit List), Gujarat
 
 ---
